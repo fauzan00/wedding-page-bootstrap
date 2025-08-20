@@ -1,4 +1,4 @@
-# weeding-page-bootstrap
+# wedding-page-bootstrap
 
 A responsive wedding invitation website built with Bootstrap 5.
 
